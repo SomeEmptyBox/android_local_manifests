@@ -32,7 +32,7 @@
         remote="eqe-lab"
         name="proprietary_vendor_motorola_eqe-motcamera"
         path="vendor/motorola/eqe-motcamera"
-        revision="lineage-22.1"
+        revision="master"
     />
 
     <!-- Kernel -->
